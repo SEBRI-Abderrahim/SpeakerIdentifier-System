@@ -1,0 +1,12 @@
+# SpeakerIdentity - Python 3.12
+# Installation: python -m pip install -r requirements.txt
+
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+numpy==1.26.4
+torch==2.6.0
+torchaudio==2.6.0
+speechbrain==1.0.3
+webrtcvad-wheels==2.0.14
+websockets==15.0.1
+pytest==8.3.5
